@@ -82,7 +82,7 @@ export const Projects = () => {
       projectUrl: "https://portfolio-website-hb.vercel.app/"
     },
     {
-      title: "Jarvis - AI voice Assistant",
+      title: "Jarvis - AI Voice Assistant",
       description: "Console-Based Voice Assistant",
       imgUrl: projImg9,
       category: "python",
