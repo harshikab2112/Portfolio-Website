@@ -9,6 +9,7 @@ import projImg5 from "../assets/img/project-img5.png";
 import projImg6 from "../assets/img/project-img6.png";
 import projImg7 from "../assets/img/project-img7.png";
 import projImg8 from "../assets/img/project-img8.png";
+import projImg9 from "../assets/img/project-img9.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -61,14 +62,14 @@ export const Projects = () => {
     },
     {
       title: "Simple Cafe Management System",
-      description: "Console Based Application",
+      description: "Console-Based Application",
       imgUrl: projImg6,
       category: "python",
       projectUrl: "https://github.com/harshikab2112/Simple-Cafe-Management-System"
     },
     {
       title: "Snake Water Gun Game",
-      description: "Console Based Game",
+      description: "Console-Based Game",
       imgUrl: projImg7,
       category: "python",
       projectUrl: "https://github.com/harshikab2112/Snake-Water-Gun-Game"
@@ -79,6 +80,13 @@ export const Projects = () => {
       imgUrl: projImg8,
       category: "web",
       projectUrl: "https://portfolio-website-hb.vercel.app/"
+    },
+    {
+      title: "Jarvis - AI voice Assistant",
+      description: "Console-Based Voice Assistant",
+      imgUrl: projImg9,
+      category: "python",
+      projectUrl: "https://github.com/harshikab2112/Jarvis-Virtual-Assistant/"
     },
   ];
 
